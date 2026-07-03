@@ -1,0 +1,91 @@
+{
+  "timestamp": "2026-07-01T18:42:48.866640",
+  "data": {
+    "keyword": "dentist",
+    "location": "US-CA",
+    "top": [
+      {
+        "query": "dentist near me",
+        "value": 100
+      },
+      {
+        "query": "best dentist",
+        "value": 54
+      },
+      {
+        "query": "pediatric dentist",
+        "value": 42
+      },
+      {
+        "query": "emergency dentist",
+        "value": 40
+      },
+      {
+        "query": "dentist kids",
+        "value": 32
+      },
+      {
+        "query": "medical dentist",
+        "value": 21
+      },
+      {
+        "query": "dentist insurance",
+        "value": 21
+      },
+      {
+        "query": "cosmetic dentist",
+        "value": 20
+      },
+      {
+        "query": "family dentist",
+        "value": 20
+      },
+      {
+        "query": "dentist office",
+        "value": 18
+      }
+    ],
+    "rising": [
+      {
+        "query": "therapy near me",
+        "value": 170
+      },
+      {
+        "query": "dentist accepting new patients",
+        "value": 140
+      },
+      {
+        "query": "how long does it take to become a dentist",
+        "value": 100
+      },
+      {
+        "query": "braces dentist near me",
+        "value": 100
+      },
+      {
+        "query": "walk-in emergency dentist near me",
+        "value": 90
+      },
+      {
+        "query": "cosmetic dentist san francisco",
+        "value": 70
+      },
+      {
+        "query": "emergency dentist open now",
+        "value": 50
+      },
+      {
+        "query": "dentist palmdale",
+        "value": 50
+      },
+      {
+        "query": "dentist open near me",
+        "value": 50
+      },
+      {
+        "query": "implant dentist near me",
+        "value": 40
+      }
+    ]
+  }
+}

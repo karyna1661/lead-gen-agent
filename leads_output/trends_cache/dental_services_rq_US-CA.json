@@ -1,0 +1,67 @@
+{
+  "timestamp": "2026-07-01T18:43:09.291666",
+  "data": {
+    "keyword": "dental services",
+    "location": "US-CA",
+    "top": [
+      {
+        "query": "dental services near me",
+        "value": 100
+      },
+      {
+        "query": "emergency dental services",
+        "value": 44
+      },
+      {
+        "query": "western dental services",
+        "value": 28
+      },
+      {
+        "query": "mobile dental services",
+        "value": 24
+      },
+      {
+        "query": "pacific dental services",
+        "value": 22
+      },
+      {
+        "query": "pet dental services",
+        "value": 17
+      },
+      {
+        "query": "smile dental services",
+        "value": 12
+      },
+      {
+        "query": "western dental services inc",
+        "value": 11
+      },
+      {
+        "query": "pediatric dental services",
+        "value": 10
+      },
+      {
+        "query": "preventive dental services",
+        "value": 9
+      }
+    ],
+    "rising": [
+      {
+        "query": "pacific dental services locations",
+        "value": 25650
+      },
+      {
+        "query": "free dental services for adults",
+        "value": 16450
+      },
+      {
+        "query": "what dental services are covered by medicare",
+        "value": 4900
+      },
+      {
+        "query": "emergency dental services near me",
+        "value": 80
+      }
+    ]
+  }
+}

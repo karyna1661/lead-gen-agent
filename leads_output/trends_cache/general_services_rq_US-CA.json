@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-07-01T19:08:22.348497",
+  "data": {
+    "keyword": "general services",
+    "location": "US-CA",
+    "top": [
+      {
+        "query": "department of general services",
+        "value": 100
+      },
+      {
+        "query": "dollar general",
+        "value": 42
+      },
+      {
+        "query": "general services administration",
+        "value": 39
+      },
+      {
+        "query": "california department of general services",
+        "value": 29
+      },
+      {
+        "query": "general contracting services",
+        "value": 19
+      },
+      {
+        "query": "republic services",
+        "value": 16
+      },
+      {
+        "query": "comcast business ethernet services",
+        "value": 5
+      }
+    ],
+    "rising": [
+      {
+        "query": "comcast business ethernet services",
+        "value": 23450
+      }
+    ]
+  }
+}

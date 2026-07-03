@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-07-01T18:32:23.381905",
+  "data": {
+    "keyword": "solar installation",
+    "location": "US-TX",
+    "top": [
+      {
+        "query": "solar panel installation",
+        "value": 100
+      },
+      {
+        "query": "solar power installation",
+        "value": 39
+      },
+      {
+        "query": "solar energy installation",
+        "value": 27
+      },
+      {
+        "query": "solar panels installation",
+        "value": 24
+      },
+      {
+        "query": "solar battery installation",
+        "value": 23
+      },
+      {
+        "query": "solar installation companies",
+        "value": 20
+      },
+      {
+        "query": "solar panel installation companies",
+        "value": 7
+      },
+      {
+        "query": "solar installation companies near me",
+        "value": 2
+      }
+    ],
+    "rising": []
+  }
+}

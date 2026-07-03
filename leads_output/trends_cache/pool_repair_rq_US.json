@@ -1,0 +1,71 @@
+{
+  "timestamp": "2026-07-02T06:46:59.508651",
+  "data": {
+    "keyword": "pool repair",
+    "location": "US",
+    "top": [
+      {
+        "query": "pool repair kit",
+        "value": 100
+      },
+      {
+        "query": "swimming pool repair",
+        "value": 63
+      },
+      {
+        "query": "pool repair near me",
+        "value": 61
+      },
+      {
+        "query": "pool repair service",
+        "value": 44
+      },
+      {
+        "query": "above ground pool repair",
+        "value": 31
+      },
+      {
+        "query": "pool repair company",
+        "value": 22
+      },
+      {
+        "query": "pool repair services",
+        "value": 20
+      },
+      {
+        "query": "vinyl pool repair kit",
+        "value": 20
+      },
+      {
+        "query": "pool repair companies",
+        "value": 11
+      },
+      {
+        "query": "inground pool repair",
+        "value": 11
+      }
+    ],
+    "rising": [
+      {
+        "query": "obama reflecting pool repair",
+        "value": 28850
+      },
+      {
+        "query": "vinyl pool repair kit",
+        "value": 550
+      },
+      {
+        "query": "boxer vinyl pool repair kit",
+        "value": 550
+      },
+      {
+        "query": "pool repair kit",
+        "value": 300
+      },
+      {
+        "query": "above ground pool repair",
+        "value": 190
+      }
+    ]
+  }
+}

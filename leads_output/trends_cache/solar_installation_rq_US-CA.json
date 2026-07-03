@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-07-01T18:32:41.929507",
+  "data": {
+    "keyword": "solar installation",
+    "location": "US-CA",
+    "top": [
+      {
+        "query": "solar panel installation",
+        "value": 100
+      },
+      {
+        "query": "solar installation cost",
+        "value": 37
+      },
+      {
+        "query": "solar installation near me",
+        "value": 32
+      },
+      {
+        "query": "solar power installation",
+        "value": 27
+      },
+      {
+        "query": "solar system installation",
+        "value": 26
+      },
+      {
+        "query": "solar battery installation",
+        "value": 23
+      },
+      {
+        "query": "home solar installation",
+        "value": 23
+      },
+      {
+        "query": "solar installation company",
+        "value": 21
+      },
+      {
+        "query": "solar panels installation",
+        "value": 20
+      },
+      {
+        "query": "solar panels",
+        "value": 20
+      }
+    ],
+    "rising": []
+  }
+}

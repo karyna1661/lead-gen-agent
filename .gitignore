@@ -1,0 +1,28 @@
+# Environment
+.env
+
+# Database (contains lead data)
+leads.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Cache
+trends_cache/*.json
+
+# Output (generated proposals)
+leads_output/proposal_*.md
+leads_output/analysis_*.json
+leads_output/summary.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
