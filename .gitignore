@@ -1,4 +1,4 @@
-# Environment
+﻿# Environment
 .env
 
 # Database (contains lead data)
@@ -21,7 +21,7 @@ leads_output/summary.md
 
 # Generated reports
 *.pdf
-*.html
+!index.html
 
 # OS
 .DS_Store
