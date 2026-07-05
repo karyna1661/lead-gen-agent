@@ -1,0 +1,9 @@
+{
+  "name": "lead-gen-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "python -m http.server 8080 --directory public",
+    "build": "echo 'static'"
+  }
+}

@@ -19,6 +19,10 @@ leads_output/proposal_*.md
 leads_output/analysis_*.json
 leads_output/summary.md
 
+# Generated reports
+*.pdf
+*.html
+
 # OS
 .DS_Store
 Thumbs.db
